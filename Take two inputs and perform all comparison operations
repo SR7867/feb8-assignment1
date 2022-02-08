@@ -1,0 +1,14 @@
+a= int(input('enter number'))
+b =int(input('enter number'))
+if(a>b):
+  print('a is greater than b')
+if(a<b):
+  print('b is greater than a')
+if(a>=b):
+  print('a is greater than or equals to b)
+if(a<=b):
+  print('b is greater than or equals to a')
+if(a==b):
+  print('a is equals to b')
+if(a!=b):
+  print('a is not equals to b')
